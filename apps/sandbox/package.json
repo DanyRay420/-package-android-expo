@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "expo": "~49.0.0-alpha.1",
-    "expo-router": "^1.5.3",
+    "expo-router": "^3.5.1",
     "react": "18.2.0",
-    "react-native": "0.72.0"
+    "react-native": "0.74.0"
   },
   "devDependencies": {
     "babel-preset-expo": "~9.5.0",
